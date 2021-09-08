@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 * 👋 Hey, This is Narendra Unnava.
 * 🔭 I’m currently Masters in Northwest Missouri State University.
