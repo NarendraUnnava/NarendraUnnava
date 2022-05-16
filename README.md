@@ -2,7 +2,7 @@
 
 * 👋 Hey, This is Narendra Unnava.
 * 🔭 I’m currently Doing my Masters in Northwest Missouri State University.
-* 🌱 Courses Done---->Web Development, Java, DataBase Systems.
+* 🌱 Courses Done---->Web Development, Java, Advance DataBase Systems, Application Designs and Frameworks.
 * 👯 I’m looking to collaborate on Machine Learning projects.
 * 🤔 I’m looking for help with Java programming.
 * 💬 Ask me about Sports in india.
